@@ -15,7 +15,8 @@ class KiLJ4EdeN:
         self.rg = 'https://www.researchgate.net/profile/Abdolkarim_Saeedi'
         self.kaggle = 'https://www.kaggle.com/kiljaeden'
         self.skills = {
-            'intrests': ['Artificial Intelligence', 'Computer Vision', 'Signal Processing', 'Cognitive Sciences'],
+            'intrests': ['Artificial Intelligence', 'Computer Vision',
+                         'Signal Processing', 'Cognitive Sciences'],
             'ai': ['Mxnet', 'TensorFlow', 'Keras', 'Gluon', 'PyTorch',
                    'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost', 'Matlab'],
             'vision': ['OpenCV', 'Dlib', 'Skimage'],
