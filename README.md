@@ -2,7 +2,7 @@
 class KiLJ4EdeN:
     """
     Hey there i'm abdolkarim,
-    I currently work as a Machine Learning Developer at Vosouq. I am also Experienced at Facial Technology.
+    I currently work as a Machine Learning Developer at Vosouq.
     I’m currently working on Facial Verification Systems and Cognitive Sciences.
     I’m currently learning Low Level Deep Learning and System Administration.
     """
