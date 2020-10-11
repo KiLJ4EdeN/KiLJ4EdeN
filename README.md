@@ -1,32 +1,33 @@
-### Hey there 👋
-
-- 🔭 I’m currently working on Facial Verification Systems and Cognitive Sciences.
-- 🌱 I’m currently learning Low Level Deep Learning and System Administration.
-- 📫 How to reach me: a-saeedi@srbiau.ac.ir
-
 ```python
 class KiLJ4EdeN:
-
+    """
+    Hey there i'm abdolkarim,
+    I currently work as a Machine Learning Developer at Vosouq. I am also Experienced at Facial Technology.
+    I’m currently working on Facial Verification Systems and Cognitive Sciences.
+    I’m currently learning Low Level Deep Learning and System Administration.
+    """
     def __init__(self):
         self.username = 'KiLJ4EdeN'
         self.name = 'Abdolkarim Saeedi'
-        self.scholar = 'http://scholar.google.com/citations?user=ef3H4RAAAAAJ&hl=en'
+        self.email = 'a-saeedi@srbiau.ac.ir'
+        self.google_scholar = 'http://scholar.google.com/citations?user=ef3H4RAAAAAJ&hl=en'
         self.linkedin = 'https://ir.linkedin.com/in/abdolkarim-saeedi-7b0699194'
-        self.rg = 'https://www.researchgate.net/profile/Abdolkarim_Saeedi'
+        self.researchgate = 'https://www.researchgate.net/profile/Abdolkarim_Saeedi'
         self.kaggle = 'https://www.kaggle.com/kiljaeden'
         self.skills = {
             'intrests': ['Artificial Intelligence', 'Computer Vision',
                          'Signal Processing', 'Cognitive Sciences'],
             'ai': ['TensorFlow', 'Keras', 'Mxnet', 'Gluon', 'd2l', 'PyTorch',
-                   'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost', 'Matlab', 'Darknet'],
+                   'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost', 'Matlab', 'Darknet',
+                   'tflite', 'cuDNN', 'CUDA', 'OpenVINO'],
             'vision': ['OpenCV', 'Dlib', 'Skimage'],
             'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Flask', 'Django', 'FastAPI'],
             'database': ['MySQL', 'SQLite3', 'MongoDB'],
-            'devops': ['Docker', 'uWSGI', 'Gunicorn', 'locust'],
-            'tools': ['GIT', 'PyCharm', 'Jupyter notebook'],
-            'misc': ['Bash', 'GNU/Linux'],
+            'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust'],
+            'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook', 'Colab'],
+            'misc': ['bash', 'GNU/Linux', 'ARM'],
         }
 
     def __str__(self):
@@ -36,6 +37,7 @@ class KiLJ4EdeN:
 if __name__ == '__main__':
     me = KiLJ4EdeN()
     exit(0)
+
 ```
 
 
