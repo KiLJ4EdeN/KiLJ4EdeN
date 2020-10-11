@@ -16,12 +16,13 @@ class KiLJ4EdeN:
         self.kaggle = 'https://www.kaggle.com/kiljaeden'
         self.skills = {
             'intrests': ['Artificial Intelligence', 'Computer Vision', 'Signal Processing', 'Cognitive Sciences'],
+            'ai': ['Mxnet', 'TensorFlow', 'Keras', 'Gluon', 'PyTorch',
+                   'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost', 'Matlab'],
+            'vision': ['OpenCV', 'Dlib', 'Skimage'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Flask', 'Django', 'FastAPI'],
-            'database': ['MySQL', 'SQLite3', 'Mongo DB'],
+            'database': ['MySQL', 'SQLite3', 'MongoDB'],
             'devops': ['Docker', 'uWSGI', 'Gunicorn', 'locust'],
-            'ai': ['Mxnet', 'TensorFlow', 'Keras', 'Gluon', 'PyTorch', 'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost', 'Matlab'],
-            'vision': ['OpenCV', 'Dlib', 'Skimage'],
             'tools': ['GIT', 'Numpy', 'Scipy', 'Pandas', 'Jupyter notebook'],
             'misc': ['Bash', 'GNU/Linux'],
         }
