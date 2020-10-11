@@ -2,7 +2,7 @@
 ```python
 class KiLJ4EdeN:
     """
-    Hey there i'm abdolkarim,
+    Hey there i'm Abdolkarim,
     I currently work as a Machine Learning Developer at Vosouq.
     I’m currently working on Facial Verification Systems and Cognitive Sciences.
     I’m currently learning Low Level Deep Learning and System Administration.
@@ -15,9 +15,9 @@ class KiLJ4EdeN:
         self.linkedin = 'https://ir.linkedin.com/in/abdolkarim-saeedi-7b0699194'
         self.researchgate = 'https://www.researchgate.net/profile/Abdolkarim_Saeedi'
         self.kaggle = 'https://www.kaggle.com/kiljaeden'
+        self.interests = ['Artificial Intelligence', 'Computer Vision',
+                          'Signal Processing', 'Cognitive Sciences']
         self.skills = {
-            'intrests': ['Artificial Intelligence', 'Computer Vision',
-                         'Signal Processing', 'Cognitive Sciences'],
             'ai': ['TensorFlow', 'Keras', 'Mxnet', 'Gluon', 'd2l', 'PyTorch',
                    'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost',
                    'Matlab', 'Darknet', 'tflite', 'cuDNN', 'CUDA', 'OpenVINO'],
@@ -31,14 +31,10 @@ class KiLJ4EdeN:
             'misc': ['bash', 'GNU/Linux', 'ARM'],
         }
 
-    def __str__(self):
-        return self.name
-
 
 if __name__ == '__main__':
     me = KiLJ4EdeN()
     exit(0)
-
 ```
 
 
