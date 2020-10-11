@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-- 🔭 I’m currently working on Facial Verification and Cognitive Sciences.
+- 🔭 I’m currently working on Facial Verification Systems and Cognitive Sciences.
 - 🌱 I’m currently learning Deep Learning based Software Engineering and System Administration.
 - 📫 How to reach me: a-saeedi@srbiau.ac.ir
 
