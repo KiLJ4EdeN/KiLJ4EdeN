@@ -2,9 +2,6 @@
 
 <!--
 **KiLJ4EdeN/KiLJ4EdeN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Facial Verification and Cognitive Sciences
 - 🌱 I’m currently learning System Administration and Deep Learning based Software Engineering.
 - 📫 How to reach me: a-saeedi@srbiau.ac.ir
