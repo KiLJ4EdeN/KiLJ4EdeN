@@ -25,7 +25,7 @@ class KiLJ4EdeN:
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Flask', 'Django', 'FastAPI'],
             'database': ['MySQL', 'SQLite3', 'MongoDB'],
-            'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust'],
+            'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
             'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook'],
             'misc': ['bash', 'GNU/Linux', 'ARM'],
         }
