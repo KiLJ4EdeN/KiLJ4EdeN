@@ -10,7 +10,7 @@ class KiLJ4EdeN:
         self.username = 'KiLJ4EdeN'
         self.name = 'Abdolkarim Saeedi'
         self.email = 'a-saeedi@srbiau.ac.ir'
-        self.google_scholar = 'http://scholar.google.com/citations?user=ef3H4RAAAAAJ&hl=en'
+        self.scholar = 'http://scholar.google.com/citations?user=ef3H4RAAAAAJ&hl=en'
         self.linkedin = 'https://ir.linkedin.com/in/abdolkarim-saeedi-7b0699194'
         self.researchgate = 'https://www.researchgate.net/profile/Abdolkarim_Saeedi'
         self.kaggle = 'https://www.kaggle.com/kiljaeden'
@@ -18,15 +18,15 @@ class KiLJ4EdeN:
             'intrests': ['Artificial Intelligence', 'Computer Vision',
                          'Signal Processing', 'Cognitive Sciences'],
             'ai': ['TensorFlow', 'Keras', 'Mxnet', 'Gluon', 'd2l', 'PyTorch',
-                   'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost', 'Matlab', 'Darknet',
-                   'tflite', 'cuDNN', 'CUDA', 'OpenVINO'],
+                   'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost',
+                   'Matlab', 'Darknet', 'tflite', 'cuDNN', 'CUDA', 'OpenVINO'],
             'vision': ['OpenCV', 'Dlib', 'Skimage'],
             'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Flask', 'Django', 'FastAPI'],
             'database': ['MySQL', 'SQLite3', 'MongoDB'],
             'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust'],
-            'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook', 'Colab'],
+            'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook'],
             'misc': ['bash', 'GNU/Linux', 'ARM'],
         }
 
