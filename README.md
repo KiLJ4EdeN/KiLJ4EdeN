@@ -17,14 +17,15 @@ class KiLJ4EdeN:
         self.skills = {
             'intrests': ['Artificial Intelligence', 'Computer Vision',
                          'Signal Processing', 'Cognitive Sciences'],
-            'ai': ['Mxnet', 'TensorFlow', 'Keras', 'Gluon', 'PyTorch',
-                   'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost', 'Matlab'],
+            'ai': ['TensorFlow', 'Keras', 'Mxnet', 'Gluon', 'd2l', 'PyTorch',
+                   'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost', 'Matlab', 'Darknet'],
             'vision': ['OpenCV', 'Dlib', 'Skimage'],
+            'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Flask', 'Django', 'FastAPI'],
             'database': ['MySQL', 'SQLite3', 'MongoDB'],
             'devops': ['Docker', 'uWSGI', 'Gunicorn', 'locust'],
-            'tools': ['GIT', 'Numpy', 'Scipy', 'Pandas', 'Jupyter notebook'],
+            'tools': ['GIT', 'PyCharm', 'Jupyter notebook'],
             'misc': ['Bash', 'GNU/Linux'],
         }
 
