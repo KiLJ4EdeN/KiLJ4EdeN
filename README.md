@@ -27,7 +27,7 @@ class KiLJ4EdeN:
             'backend': ['Flask', 'Django', 'FastAPI'],
             'database': ['MySQL', 'SQLite3', 'MongoDB'],
             'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
-            'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook'],
+            'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook', 'Anaconda'],
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM'],
         }
 
