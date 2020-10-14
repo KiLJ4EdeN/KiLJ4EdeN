@@ -20,7 +20,8 @@ class KiLJ4EdeN:
         self.skills = {
             'ai': ['TensorFlow', 'Keras', 'Mxnet', 'Gluon', 'd2l', 'PyTorch',
                    'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost',
-                   'Matlab', 'Darknet', 'tflite', 'cuDNN', 'CUDA', 'OpenVINO'],
+                   'Matlab', 'Darknet', 'tflite', 'cuDNN', 'CUDA', 'MKL',
+                   'OpenVINO'],
             'vision': ['OpenCV', 'Dlib', 'Skimage'],
             'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
