@@ -21,7 +21,7 @@ class KiLJ4EdeN:
             'ai': ['TensorFlow', 'Keras', 'Mxnet', 'Gluon', 'd2l', 'PyTorch',
                    'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost',
                    'Matlab', 'Darknet', 'tflite', 'cuDNN', 'CUDA', 'MKL',
-                   'OpenVINO'],
+                   'OpenVINO', 'NNPACK'],
             'vision': ['OpenCV', 'Dlib', 'Skimage'],
             'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
