@@ -1,4 +1,3 @@
-<!-- https://komarev.com/ghpvc/?username=KiLJ4EdeN&color=blue -->
 ```python
 class KiLJ4EdeN:
     """
