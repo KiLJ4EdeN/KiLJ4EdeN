@@ -18,8 +18,8 @@ class KiLJ4EdeN:
                           'Signal Processing', 'Cognitive Sciences']
         self.skills = {
             'ai': ['TensorFlow', 'Keras', 'Mxnet', 'Gluon', 'd2l', 'PyTorch',
-                   'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost',
-                   'Darknet', 'tflite', 'cuDNN', 'CUDA', 'MKL',
+                   'ONNX', 'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost',
+                   'XGBoost', 'Darknet', 'tflite', 'cuDNN', 'CUDA', 'MKL',
                    'OpenVINO', 'NNPACK'],
             'vision': ['OpenCV', 'Dlib', 'Skimage'],
             'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn'],
