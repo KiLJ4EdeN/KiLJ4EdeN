@@ -21,7 +21,7 @@ class KiLJ4EdeN:
                    'ONNX', 'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost',
                    'XGBoost', 'Darknet', 'tflite', 'cuDNN', 'CUDA', 'MKL',
                    'OpenVINO', 'NNPACK'],
-            'vision': ['OpenCV', 'Dlib', 'Skimage'],
+            'computer vision': ['OpenCV', 'Dlib', 'Skimage'],
             'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn', 'Plotly',
                     'Dash', 'Bokeh'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
