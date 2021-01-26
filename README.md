@@ -3,8 +3,8 @@ class KiLJ4EdeN:
     """
     Hey there i'm Abdolkarim,
     I currently work as a Machine Learning Developer at Vosouq.
-    I’m currently working on Facial Verification Systems and Cognitive Sciences.
-    I’m currently learning Low Level Deep Learning and System Administration.
+    I’m working on Facial Verification Systems and Cognitive Sciences.
+    I’m learning Low Level Deep Learning and System Administration.
     """
     def __init__(self):
         self.username = 'KiLJ4EdeN'
