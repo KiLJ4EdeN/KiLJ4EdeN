@@ -26,7 +26,7 @@ class KiLJ4EdeN:
                     'Dash', 'Bokeh'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'C++', 'MATLAB'],
-            'web': ['Flask', 'Django', 'FastAPI'],
+            'web': ['Flask', 'FastAPI', 'Django'],
             'database': ['MySQL', 'SQLite3', 'MongoDB'],
             'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
             'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook', 'Anaconda'],
