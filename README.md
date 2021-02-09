@@ -29,7 +29,7 @@ class KiLJ4EdeN:
             'web': ['Flask', 'FastAPI', 'Django'],
             'database': ['MySQL', 'SQLite3', 'MongoDB'],
             'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
-            'tools': ['git', 'vim', 'PyCharm', , 'OpenAPI', 'Jupyter notebook', 'Anaconda'],
+            'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook', 'Anaconda'],
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM'],
         }
 
