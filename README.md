@@ -30,7 +30,7 @@ class KiLJ4EdeN:
             'database': ['MySQL', 'SQLite3', 'MongoDB'],
             'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
             'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook', 'Anaconda'],
-            'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM'],
+            'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM'. 'vmware', 'kvm'],
         }
 
 
