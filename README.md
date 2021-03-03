@@ -32,6 +32,7 @@ class KiLJ4EdeN:
             'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook',
                       'Anaconda', 'Gitlab', 'Bitbucket'],
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM'. 'vmware', 'kvm'],
+            'more': ['www.google.com/search?q=abdolkarim+saeedi']
         }
 
 
