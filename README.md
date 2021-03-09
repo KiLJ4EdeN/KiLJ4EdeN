@@ -32,7 +32,9 @@ class KiLJ4EdeN:
             'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook',
                       'Anaconda', 'Gitlab', 'Bitbucket'],
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM'. 'vmware', 'kvm'],
-            'more': ['www.google.com/search?q=abdolkarim+saeedi']
+            'more': ['www.google.com/search?q=abdolkarim+saeedi',
+                    'https://royaleapi.com/player/2099V0LQ',
+                    'https://eune.op.gg/summoner/userName=KiLJ4EdeN']
         }
 
 
