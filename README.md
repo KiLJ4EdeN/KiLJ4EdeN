@@ -22,7 +22,7 @@ class KiLJ4EdeN:
                    'XGBoost', 'Darknet', 'tflite', 'cuDNN', 'CUDA', 'MKL',
                    'OpenVINO', 'NNPACK'],
             'computer vision': ['OpenCV', 'Dlib', 'Skimage', 'PIL'],
-            'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn', 'Plotly',
+            'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn', 'Plotly', 
                     'Dash', 'Bokeh'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'C++', 'MATLAB'],
