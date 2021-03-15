@@ -1,7 +1,7 @@
 ```python
 class KiLJ4EdeN:
     """
-    Hey there i'm Abdolkarim,
+    Hey there i'm Abdolkarim, 
     I currently work as a Machine Learning Developer at Vosouq.
     I’m researching on Facial Verification Systems and Cognitive Sciences.
     I’m also learning Low Level Deep Learning and System Administration.
