@@ -13,6 +13,7 @@ class KiLJ4EdeN:
         self.scholar = 'http://scholar.google.com/citations?user=ef3H4RAAAAAJ&hl=en'
         self.linkedin = 'https://ir.linkedin.com/in/abdolkarim-saeedi-7b0699194'
         self.researchgate = 'https://www.researchgate.net/profile/Abdolkarim_Saeedi'
+        self.stack = 'https://stackoverflow.com/users/13962062/kilj4eden'
         self.kaggle = 'https://www.kaggle.com/kiljaeden'
         self.interests = ['Artificial Intelligence', 'Computer Vision',
                           'Signal Processing', 'Cognitive Sciences']
