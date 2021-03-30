@@ -23,7 +23,7 @@ class KiLJ4EdeN:
                    'OpenVINO', 'NNPACK'],
             'computer vision': ['OpenCV', 'Dlib', 'Skimage', 'PIL'],
             'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn', 'Plotly', 
-                    'Dash', 'Bokeh'],
+                     'Dash', 'Bokeh'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'C++', 'MATLAB'],
             'web': ['Flask', 'FastAPI', 'Django'],
@@ -31,16 +31,18 @@ class KiLJ4EdeN:
             'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
             'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook',
                       'Anaconda', 'Gitlab', 'Bitbucket'],
-            'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM'. 'vmware', 'kvm'],
-            'more': ['www.google.com/search?q=abdolkarim+saeedi',
-                    'https://royaleapi.com/player/2099V0LQ',
-                    'https://eune.op.gg/summoner/userName=KiLJ4EdeN']
+            'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm'],
+            'more': {'Google': 'www.google.com/search?q=abdolkarim+saeedi',
+                     'LeagueOfLegends': 'https://eune.op.gg/summoner/userName=KiLJ4EdeN',
+                     'ClashRoyale': 'https://royaleapi.com/player/2099V0LQ'
+                     }
         }
 
 
 if __name__ == '__main__':
     me = KiLJ4EdeN()
     exit(0)
+
 ```
 
 
