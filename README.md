@@ -36,7 +36,7 @@ class KiLJ4EdeN:
             'more': {'Google': 'www.google.com/search?q=abdolkarim+saeedi',
                      'LeagueOfLegends': 'https://eune.op.gg/summoner/userName=KiLJ4EdeN',
                      'ClashRoyale': 'https://royaleapi.com/player/2099V0LQ'
-                     }
+                     },
         }
 
 
