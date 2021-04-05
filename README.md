@@ -35,7 +35,7 @@ class KiLJ4EdeN:
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm'],
             'games': {'LeagueOfLegends': 'https://eune.op.gg/summoner/userName=KiLJ4EdeN',
                       'ClashRoyale': 'https://royaleapi.com/player/2099V0LQ'
-                      },
+                      }
         }
 
 
