@@ -34,7 +34,7 @@ class KiLJ4EdeN:
                       'Anaconda', 'Gitlab', 'Bitbucket'],
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm'],
             'games': {'LoL': 'https://eune.op.gg/summoner/userName=KiLJ4EdeN',
-                      'WoW': https://armory.warmane.com/character/Kifjaeden/Icecrown/summary,
+                      'WoW': 'https://armory.warmane.com/character/Kifjaeden/Icecrown/summary',
                       'CR': 'https://royaleapi.com/player/2099V0LQ'
                       },
         }
