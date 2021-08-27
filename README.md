@@ -33,8 +33,9 @@ class KiLJ4EdeN:
             'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook',
                       'Anaconda', 'Gitlab', 'Bitbucket'],
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm'],
-            'games': {'LeagueOfLegends': 'https://eune.op.gg/summoner/userName=KiLJ4EdeN',
-                      'ClashRoyale': 'https://royaleapi.com/player/2099V0LQ'
+            'games': {'LoL': 'https://eune.op.gg/summoner/userName=KiLJ4EdeN',
+                      'WoW': https://armory.warmane.com/character/Kifjaeden/Icecrown/summary,
+                      'CR': 'https://royaleapi.com/player/2099V0LQ'
                       },
         }
 
