@@ -29,7 +29,7 @@ class KiLJ4EdeN:
             'backend': ['Python', 'C++', 'MATLAB'],
             'web': ['Flask', 'FastAPI', 'Django', 'Dash', 'Streamlit'],
             'database': ['MySQL', 'SQLite3', 'MongoDB'],
-            'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
+            'devops': ['Docker', 'nginx', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
             'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook',
                       'Anaconda', 'Gitlab', 'Bitbucket'],
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm'],
