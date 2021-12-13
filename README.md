@@ -2,9 +2,8 @@
 class KiLJ4EdeN:
     """
     Hey there i'm Abdolkarim,
-    I currently work as a Machine Learning Developer at Vosouq.
-    I’m researching on Facial Verification Systems and Cognitive Sciences.
-    I’m also learning Low Level Deep Learning and System Administration.
+    I currently work as a Machine Learning Developer at AiMedic.
+    I’m researching on Xray pathology detection methods.
     """
     def __init__(self):
         self.username = 'KiLJ4EdeN'
