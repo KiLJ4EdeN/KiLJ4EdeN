@@ -27,11 +27,11 @@ class KiLJ4EdeN:
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'C++', 'MATLAB'],
             'web': ['Flask', 'FastAPI', 'Django', 'Dash', 'Streamlit'],
-            'database': ['MySQL', 'SQLite3', 'MongoDB'],
+            'database': ['MySQL', 'SQLite3', 'MongoDB', 'Postgre'],
             'devops': ['Docker', 'nginx', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
             'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook',
                       'Anaconda', 'Gitlab', 'Bitbucket'],
-            'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm'],
+            'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm', 'discordpy'],
             'games': {'LoL': 'https://eune.op.gg/summoner/userName=KiLJ4EdeN',
                       'WoW': 'https://armory.warmane.com/character/Kifjaeden/Icecrown/summary',
                       'CR': 'https://royaleapi.com/player/2099V0LQ'
