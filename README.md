@@ -24,7 +24,7 @@ class KiLJ4EdeN:
             'computer vision': ['OpenCV', 'Dlib', 'Skimage', 'PIL'],
             'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn', 'Plotly', 
                      'Bokeh'],     
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Vue'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'React', 'Vue'],
             'backend': ['Python', 'C++', 'Nodejs', 'MATLAB'],
             'web': ['Flask', 'FastAPI', 'Django', 'Dash', 'Streamlit'],
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'Postgre'],
