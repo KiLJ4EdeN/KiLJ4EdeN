@@ -26,7 +26,7 @@ class KiLJ4EdeN:
                      'Bokeh'],     
             'frontend': ['HTML', 'CSS', 'JavaScript', 'React', 'Vue'],
             'backend': ['Python', 'C++', 'Nodejs', 'MATLAB'],
-            'web': ['Flask', 'FastAPI', 'Django', 'Dash', 'Streamlit'],
+            'web': ['Flask', 'FastAPI', 'Express', 'Django', 'Dash', 'Streamlit'],
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'Postgre'],
             'devops': ['Docker', 'nginx', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
             'medical': ['Orthanc', 'Dicoogle', 'pydicom', 'SimpleITK', 'Ohif', 'XNAT'],
