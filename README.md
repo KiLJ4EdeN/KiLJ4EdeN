@@ -29,7 +29,7 @@ class KiLJ4EdeN:
             'web': ['Flask', 'FastAPI', 'Express', 'Django', 'Dash', 'Streamlit'],
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'Postgre'],
             'devops': ['Docker', 'nginx', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
-            'medical': ['Orthanc', 'Dicoogle', 'pydicom', 'SimpleITK', 'Ohif', 'XNAT'],
+            'medical': ['Orthanc', 'dcmjs', 'Dicoogle', 'pydicom', 'SimpleITK', 'Ohif', 'XNAT'],
             'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook',
                       'Anaconda', 'Gitlab', 'Bitbucket'],
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm', 'discordpy', 'selenium'],
