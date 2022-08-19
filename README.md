@@ -2,8 +2,8 @@
 class KiLJ4EdeN:
     """
     Hey there i'm Abdolkarim,
-    I currently work as a Machine Learning Developer at AiMedic.
-    I’m researching on Xray pathology detection methods.
+    I currently work as a MLOps Engineer at AiMedic.
+    I’m researching dicom manipulation.
     """
     def __init__(self):
         self.username = 'KiLJ4EdeN'
