@@ -25,7 +25,7 @@ class KiLJ4EdeN:
             'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn', 'Plotly', 
                      'Bokeh'],     
             'frontend': ['HTML', 'CSS', 'JavaScript', 'React', 'Vue'],
-            'backend': ['Python', 'C++', 'Nodejs', 'MATLAB'],
+            'backend': ['Python', 'Nodejs', 'C++', 'MATLAB'],
             'web': ['Flask', 'FastAPI', 'Express', 'Django', 'Dash', 'Streamlit'],
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'Postgre'],
             'devops': ['Docker', 'nginx', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
