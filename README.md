@@ -46,7 +46,7 @@ if __name__ == '__main__':
     exit(0)
 
 ```
- 
+
 
 [![KiLJ4EdeN's github stats](https://github-readme-stats.vercel.app/api?username=KiLJ4EdeN&theme=merko)](https://github-readme-stats.vercel.app/api?username=KiLJ4EdeN&theme=merko)
 
