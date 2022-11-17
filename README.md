@@ -1,7 +1,7 @@
 ```python
 class KiLJ4EdeN:
     """
-    Hey there i'm Abdolkarim,           
+    Hey there i'm Abdolkarim,            
     I currently work as a MLOps Engineer at AiMedic.
     I’m researching dicom manipulation.
     """
