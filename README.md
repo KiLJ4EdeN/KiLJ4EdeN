@@ -3,7 +3,7 @@ class KiLJ4EdeN:
     """
     Hey there i'm Abdolkarim,                                                        
     I currently work as a ML Engineer at AiMedic.
-    I’m researching dicom manipulation.
+    I’m researching dicom manipulation and breast cancer detection from mammography images.
     """
     def __init__(self):
         self.username = 'KiLJ4EdeN'
