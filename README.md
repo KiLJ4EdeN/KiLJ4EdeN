@@ -34,7 +34,7 @@ class KiLJ4EdeN:
             'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook',
                       'Anaconda', 'Gitlab', 'Bitbucket'],
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm', 'discordpy', 'selenium'],
-            'games': {'LoL': 'https://eune.op.gg/summoner/userName=KiLJ4EdeN',
+            'games': {'LoL': 'https://www.op.gg/summoners/euw/ThereIsNoLoserQ-EUW',
                       'WoW': 'https://worldofwarcraft.blizzard.com/en-gb/character/eu/kazzak/Stathiccshiv',
                       'CR': 'https://royaleapi.com/player/2099V0LQ'
                       },
