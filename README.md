@@ -2,8 +2,8 @@
 class KiLJ4EdeN:
     """
     Hey there i'm Abdolkarim,                                                        
-    I currently work as a ML Engineer at AiMedic.
-    I’m researching dicom manipulation and breast cancer detection from mammography images.
+    I currently work as an AI Engineer at Tose e saderat bank.
+    I’m researching and developing new ways of kyc.
     """
     def __init__(self):
         self.username = 'KiLJ4EdeN'
@@ -35,6 +35,7 @@ class KiLJ4EdeN:
                       'Anaconda', 'Gitlab', 'Bitbucket'],
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm', 'discordpy', 'selenium'],
             'games': {'LoL': 'https://www.op.gg/summoners/euw/ThereIsNoLoserQ-EUW',
+                      'Dota': 'https://www.opendota.com/players/1220118314/',
                       'WoW': 'https://worldofwarcraft.blizzard.com/en-gb/character/eu/kazzak/Stathiccshiv',
                       'CR': 'https://royaleapi.com/player/2099V0LQ'
                       },
