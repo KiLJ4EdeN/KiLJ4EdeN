@@ -2,8 +2,8 @@
 class KiLJ4EdeN:
     """
     Hey there i'm Abdolkarim,                                                        
-    I currently work as an AI Engineer at Tose e saderat bank.
-    I’m researching and developing new ways of kyc.
+    I currently work as an AI Engineer at Ariyadis And Tose e saderat bank.
+    I’m researching and developing KYC, Voice Assistants, General purpose OCR, FAQ RAGs and Sentence Similarity LLMs.
     """
     def __init__(self):
         self.username = 'KiLJ4EdeN'
