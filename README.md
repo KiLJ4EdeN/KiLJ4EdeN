@@ -50,6 +50,6 @@ if __name__ == '__main__':
 
 
 [![KiLJ4EdeN's github stats](https://github-readme-stats.vercel.app/api?username=KiLJ4EdeN&theme=merko)](https://github-readme-stats.vercel.app/api?username=KiLJ4EdeN&theme=merko)
-
+ 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiLJ4EdeN&hide=jupyter%20notebook&theme=merko&langs_count=10&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=KiLJ4EdeN&hide=jupyter%20notebook&theme=merko&langs_count=10&layout=compact)
