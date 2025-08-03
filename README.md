@@ -2,13 +2,13 @@
 class KiLJ4EdeN:
     """
     Hey there i'm Abdolkarim,                                                        
-    I currently work as an AI Engineer at Ariyadis And Tose e saderat bank.
-    I’m researching and developing KYC, Voice Assistants, General purpose OCR, FAQ RAGs and Sentence Similarity LLMs.
+    I currently work as an AI Engineer at AIMedic.
+    I’m researching and developing explainable models for breast cancer detection.
     """
     def __init__(self):
         self.username = 'KiLJ4EdeN'
         self.name = 'Abdolkarim Saeedi'
-        self.email = 'a-saeedi@srbiau.ac.ir'
+        self.email = 'abdolkarim.saeedi@iau.ac.ir'
         self.scholar = 'http://scholar.google.com/citations?user=ef3H4RAAAAAJ&hl=en'
         self.linkedin = 'https://ir.linkedin.com/in/abdolkarim-saeedi-7b0699194'
         self.researchgate = 'https://www.researchgate.net/profile/Abdolkarim_Saeedi'
