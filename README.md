@@ -36,7 +36,7 @@ class KiLJ4EdeN:
             'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm', 'discordpy', 'selenium'],
             'games': {'LoL': 'https://www.op.gg/summoners/euw/ThereIsNoLoserQ-EUW',
                       'Dota': 'https://www.opendota.com/players/1220118314/',
-                      'WoW': 'https://worldofwarcraft.blizzard.com/en-gb/character/eu/kazzak/Stathiccshiv',
+                      'WoW': 'http://worldofwarcraft.blizzard.com/en-us/character/eu/kazzak/Kifjaeden',
                       'CR': 'https://royaleapi.com/player/2099V0LQ'
                       },
         }
