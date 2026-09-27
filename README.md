@@ -1,9 +1,10 @@
 ```python
 class KiLJ4EdeN:
     """
-    Hey there i'm Abdolkarim,                                                        
-    I currently work as an AI Engineer at AIMedic.
-    I’m researching and developing explainable models for breast cancer detection.
+    Hey there, I'm Abdolkarim.
+    
+    I build AI systems at Vista, creating intelligent agents and workflows
+    that help streamline healthcare processes and clinical interactions.
     """
     def __init__(self):
         self.username = 'KiLJ4EdeN'
@@ -17,23 +18,33 @@ class KiLJ4EdeN:
         self.interests = ['Artificial Intelligence', 'Computer Vision',
                           'Signal Processing', 'Cognitive Sciences']
         self.skills = {
-            'ai': ['TensorFlow', 'Keras', 'Mxnet', 'Gluon', 'd2l', 'PyTorch',
-                   'ONNX', 'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost',
-                   'XGBoost', 'Darknet', 'tflite', 'cuDNN', 'CUDA', 'MKL',
-                   'OpenVINO', 'NNPACK'],
-            'computer vision': ['OpenCV', 'Dlib', 'Skimage', 'PIL'],
-            'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn', 'Plotly', 
-                     'Bokeh'],     
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Vue'],
-            'backend': ['Python', 'Nodejs', 'C++', 'MATLAB'],
-            'web': ['Flask', 'FastAPI', 'Express', 'Django', 'Dash', 'Streamlit'],
-            'database': ['MySQL', 'SQLite3', 'MongoDB', 'Postgre'],
-            'devops': ['Docker', 'nginx', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
-            'medical': ['Orthanc', 'dcmjs', 'Dicoogle', 'pydicom', 'SimpleITK', 'Ohif',
-                        'XNAT', 'Cornerstone'],
-            'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook',
-                      'Anaconda', 'Gitlab', 'Bitbucket'],
-            'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm', 'discordpy', 'selenium'],
+            'ai': ['PyTorch', 'Transformers', 'Hugging Face',
+                   'LangChain', 'LlamaIndex', 'vLLM',
+                   'ONNX', 'OpenVINO', 'Sklearn'],
+            'computer vision': ['OpenCV', 'PIL', 'Skimage',
+                                'Vision Transformers', 'Object Detection',
+                                'Segmentation', 'Multimodal Models'],
+            'generative ai': ['LLMs', 'RAG', 'AI Agents',
+                              'Tool Calling', 'Function Calling',
+                              'Fine-tuning', 'LoRA', 'QLoRA',
+                              'Embeddings', 'Vector Databases',
+                              'Model Evaluation'],
+            'data': ['Numpy', 'Scipy', 'Pandas',
+                     'Matplotlib', 'Plotly'],
+            'frontend': ['TypeScript', 'React', 'Vue'],
+            'backend': ['Python', 'Nodejs', 'C++', 'Rust'],
+            'web': ['FastAPI', 'Flask', 'Express', 'Django', 'Dash'],
+            'database': ['PostgreSQL', 'SQLite3', 'MongoDB',
+                         'Redis', 'Vector Databases'],
+            'devops': ['Docker', 'nginx',
+                       'Gunicorn', 'CI/CD', 'GitHub Actions',
+                       'MLflow', 'Weights & Biases'],
+            'medical': ['DICOM', 'Orthanc', 'dcmjs',
+                        'pydicom', 'SimpleITK',
+                        'Ohif', 'XNAT', 'Cornerstone'],
+            'misc': ['bash', 'Linux', 'CentOS/RHEL/Debian',
+                     'ARM', 'vmware', 'kvm',
+                     'selenium', 'discordpy'],
             'games': {'LoL': 'https://www.op.gg/summoners/euw/ThereIsNoLoserQ-EUW',
                       'Dota': 'https://www.opendota.com/players/1220118314/',
                       'WoW': 'http://worldofwarcraft.blizzard.com/en-us/character/eu/kazzak/Kifjaeden',
